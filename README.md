@@ -1,4 +1,6 @@
- We can access the collection of the **`<form>`** elements using 'elements' property by typing 'console.dir(form)' in the dev tools console:
+ We can access the collection of the **`<form>`** elements using 'elements' property by typing ```sql
+console.dir(form)
+``` in the dev tools console:
 
 ![dev tools console](./Capture6.PNG)
 
