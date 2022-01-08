@@ -20,3 +20,6 @@ form.elements.qty.value
 ```
 
 ![dev tools console](./Capture7.PNG)
+
+
+## [Click for the dev tools console](https://verson-tech.github.io/Grocery-list/)
